@@ -38,7 +38,7 @@
 
 <br />
 
-<img style="margin-left:20px;"  width="390" alt="hTag" src="/asset/img/ol.png">
+<img style="margin-left:20px;"  width="390" alt="ol" src="/asset/img/ol.png">
 
 #### ol의 타입
 
@@ -72,7 +72,7 @@
 
 <br />
 
-<img style="margin-left:20px;"  width="390" alt="hTag" src="/asset/img/reverseOL.png">
+<img style="margin-left:20px;"  width="390" alt="reverseOL" src="/asset/img/reverseOL.png">
 
 <br />
 
@@ -98,7 +98,7 @@
 </html>
 ```
 
-<img style="margin-left:20px;"  width="390" alt="hTag" src="/asset/img/nest.png">
+<img style="margin-left:20px;"  width="390" alt="nest" src="/asset/img/nest.png">
 
 <br />
 
@@ -113,7 +113,7 @@
 | `th`    | 행 내부의 제목 셀 (table heading) |
 | `td`    | 행 내부의 일반 셀 (table data)    |
 
-<img style="margin-left:20px;"  width="550" alt="hTag" src="/asset/img/html_table_structure.gif">
+<img style="margin-left:20px;"  width="550" alt="html_table_structure" src="/asset/img/html_table_structure.gif">
 
 ```html
 <!DOCTYPE html>
@@ -145,7 +145,7 @@
 </html>
 ```
 
-<img style="margin-left:20px;"  width="390" alt="hTag" src="/asset/img/table.png">
+<img style="margin-left:20px;"  width="390" alt="table" src="/asset/img/table.png">
 
 <br />
 
@@ -206,4 +206,4 @@
 </html>
 ```
 
-<img style="margin-left:20px;"  width="400" alt="hTag" src="/asset/img/tableSpan.png">
+<img style="margin-left:20px;"  width="400" alt="tableSpan" src="/asset/img/tableSpan.png">
