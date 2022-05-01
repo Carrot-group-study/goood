@@ -14,3 +14,4 @@
 - [x] [목록(List)와 표(Table) 형식 표현을 위한 태그](https://github.com/Carrot-group-study/goood/blob/main/Post/HTML/List%20%26%20Table%20%ED%83%9C%EA%B7%B8.md)
 - [x] [이미지의 표현과 동영상, 음악 등 멀티미디어를 지원하는 태그](https://github.com/Carrot-group-study/goood/blob/main/Post/HTML/%EB%A9%80%ED%8B%B0%EB%AF%B8%EB%94%94%EC%96%B4%ED%83%9C%EA%B7%B8.md)
 - [x] [사용자와의 커뮤니케이션을 위한 폼 태그](https://github.com/Carrot-group-study/goood/blob/main/Post/HTML/%ED%8F%BC%20%ED%83%9C%EA%B7%B8.md)
+- [x] [웹페이지의 레이아웃을 구성하기 위해 공간을 분할하는 태그](https://github.com/Carrot-group-study/goood/blob/main/Post/HTML/%EB%B6%84%ED%95%A0%ED%83%9C%EA%B7%B8.md)
