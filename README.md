@@ -17,3 +17,5 @@
 - [x] [웹페이지의 레이아웃을 구성하기 위해 공간을 분할하는 태그](https://github.com/Carrot-group-study/goood/blob/main/Post/HTML/%EB%B6%84%ED%95%A0%ED%83%9C%EA%B7%B8.md)
 
 ## CSS5
+
+- [x] [CSS 기본문법](https://github.com/Carrot-group-study/goood/blob/main/Post/CSS/CSS%20%EA%B8%B0%EB%B3%B8%20%EB%AC%B8%EB%B2%95.md)
