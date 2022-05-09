@@ -20,7 +20,7 @@
 
 - [x] [CSS 기본문법](https://github.com/Carrot-group-study/goood/blob/main/Post/CSS/CSS%20%EA%B8%B0%EB%B3%B8%20%EB%AC%B8%EB%B2%95.md)
 - [x] [셀렉터](https://github.com/Carrot-group-study/goood/blob/main/Post/CSS/%EC%85%80%EB%A0%89%ED%84%B0.md)
-- [ ] [CSS 프로퍼티 값의 단위]()
+- [x] [CSS 프로퍼티 값의 단위](https://github.com/Carrot-group-study/goood/blob/main/Post/CSS/CSS%20%EB%8B%A8%EC%9C%84.md)
 - [ ] [박스 모델]()
 - [ ] [display, visibility, opacity 프로퍼티]()
 - [ ] [백그라운드]()
