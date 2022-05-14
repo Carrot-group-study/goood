@@ -22,7 +22,7 @@
 - [x] [셀렉터](https://github.com/Carrot-group-study/goood/blob/main/Post/CSS/%EC%85%80%EB%A0%89%ED%84%B0.md)
 - [x] [CSS 프로퍼티 값의 단위](https://github.com/Carrot-group-study/goood/blob/main/Post/CSS/CSS%20%EB%8B%A8%EC%9C%84.md)
 - [x] [박스 모델](https://github.com/Carrot-group-study/goood/blob/main/Post/CSS/Box%20Model.md)
-- [ ] [display, visibility, opacity 프로퍼티]()
+- [x] [display, visibility, opacity 프로퍼티](https://github.com/Carrot-group-study/goood/blob/main/Post/CSS/display%20%ED%94%84%EB%A1%9C%ED%8D%BC%ED%8B%B0.md)
 - [ ] [백그라운드]()
 - [ ] [폰트와 텍스트]()
 - [ ] [요소의 위치 정의]()
