@@ -24,7 +24,7 @@
 - [x] [박스 모델](https://github.com/Carrot-group-study/goood/blob/main/Post/CSS/Box%20Model.md)
 - [x] [display, visibility, opacity 프로퍼티](https://github.com/Carrot-group-study/goood/blob/main/Post/CSS/display%20%ED%94%84%EB%A1%9C%ED%8D%BC%ED%8B%B0.md)
 - [x] [백그라운드](https://github.com/Carrot-group-study/goood/blob/main/Post/CSS/%EB%B0%B1%EA%B7%B8%EB%9D%BC%EC%9A%B4%EB%93%9C.md)
-- [ ] [폰트와 텍스트]()
+- [x] [폰트와 텍스트](https://github.com/Carrot-group-study/goood/blob/main/Post/CSS/font%26text.md)
 - [ ] [요소의 위치 정의]()
 - [ ] [요소 정렬]()
 - [ ] [스타일의 상속과 적용 우선 순위]()
